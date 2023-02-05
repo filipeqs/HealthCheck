@@ -1,0 +1,2 @@
+D:\Programing\Git\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
+D:\Programing\Git\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
